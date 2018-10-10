@@ -1,4 +1,4 @@
-# Android_Localisation_Dataset
+# Android_Localization_Dataset1
 
 This app acquires the Start position(click button "INIZIO") and End position(click button "FINE") using the GPS to calculate the distance
 in meters and the time which you use to walk.
